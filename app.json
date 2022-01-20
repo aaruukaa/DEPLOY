@@ -1,15 +1,44 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@aaruukaa 
+aaruukaa
+/
+depolay
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+depolay/app.json
+@aaruukaa
+aaruukaa Add files via upload
+Latest commit e56d7a3 15 days ago
+ History
+ 1 contributor
+86 lines (86 sloc)  2.55 KB
+   
 {
-  "name": "OCTAGRAM",
+  "name": "ARK BOT",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-    "repository": "https://github.com/tobangen/Octagram",
-  "logo": "https://telegra.ph/file/b8210e02f23b3d32f103b.jpg",
+    "repository": "https://github.com/tobangen/Arkfileshare",
+  "logo": "https://telegra.ph/file/c45b4f24c8200484280b5.png",
   "env": {
-    "TG_BOT_TOKEN": {
+    "BOT TOKET": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
       "value": ""
     },
@@ -41,10 +70,6 @@
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
       "value": "-100"
     },
-    "FORCE_SUB_GROUP": {
-      "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
-      "value": "-100"
-    },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
       "value": "<b>Hello {first}\n\nSaya dapat menyimpan file pribadi di Channel Tertentu dan pengguna lain dapat mengaksesnya dari link khusus.</b>"
@@ -56,11 +81,6 @@
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
       "value": "nolpercent",
-      "required": false
-    },
-    "GROUP":{
-      "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "octagrambot",
       "required": false
     }
   },
@@ -84,3 +104,16 @@
     }
   }
 }
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete

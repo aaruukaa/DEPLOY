@@ -3,7 +3,7 @@
 
 _get_repolink () {
     local regex
-    regex='(https?)://github.com/.+/.+'
+    regex='https://github.com/aaruukaa/Arkfileshare.git'
     if [[ $REPO == "master" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL21yaXNtYW5heml6L0ZpbGUtU2hhcmluZy1NYW4vYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d

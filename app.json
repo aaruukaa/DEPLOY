@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@aaruukaa 
-aaruukaa
-/
-depolay
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-depolay/app.json
-@aaruukaa
-aaruukaa Add files via upload
-Latest commit e56d7a3 15 days ago
- History
- 1 contributor
-86 lines (86 sloc)  2.55 KB
-   
 {
   "name": "ARK BOT",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
@@ -104,16 +75,3 @@ Latest commit e56d7a3 15 days ago
     }
   }
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
